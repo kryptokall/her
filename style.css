@@ -34,7 +34,7 @@ p {
 	border-style: solid;
 }
 
-.button-yes {
+.button-white {
   background: white;
   border-radius: 11px;
   box-sizing: border-box;
@@ -48,7 +48,7 @@ p {
   padding: .6em 1em;
   text-align: center;
   text-decoration: none;
-  text-shadow: rgba(0, 0, 0, .3) 1px 1px 1px;
+  text-shadow: rgba(0, 0, 0, .2) 1px 1px 1px;
   text-underline-offset: 1px;
   transition: all .2s ease-in-out;
   user-select: none;
@@ -57,7 +57,7 @@ p {
   border-color: red;
 }
 
-.button-no {
+.button-red {
 	background: #e62143;
 	border-radius: 11px;
 	box-sizing: border-box;
