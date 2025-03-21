@@ -1,0 +1,80 @@
+body {
+	background-color: lightpink;
+}
+
+p {
+	font-family: sans-serif;
+	text-align: justify;
+}
+
+#title {
+	font-family: sans-serif;
+	color: red;
+	font-size: 30px;
+	align-items: center;
+}
+
+.nav {
+	margin: 6px;
+}
+
+.link {
+	font-weight: bold;
+	text-decoration: none;
+	font-family: sans-serif;
+	font-size: 18;
+	color: #4b566a;
+	padding: 5px;
+}
+
+.image {
+	width: 640px;
+	border-width: 10px;
+	border-color: #c5c5b2;
+	border-style: solid;
+}
+
+.button-yes {
+  background: white;
+  border-radius: 11px;
+  box-sizing: border-box;
+  color: red;
+  cursor: pointer;
+  font-family: Mija,-apple-system,BlinkMacSystemFont,Roboto,"Roboto Slab","Droid Serif","Segoe UI",system-ui,Arial,sans-serif;
+  font-size: 1.15em;
+  font-weight: 700;
+  justify-content: center;
+  line-height: 33.4929px;
+  padding: .6em 1em;
+  text-align: center;
+  text-decoration: none;
+  text-shadow: rgba(0, 0, 0, .3) 1px 1px 1px;
+  text-underline-offset: 1px;
+  transition: all .2s ease-in-out;
+  user-select: none;
+  touch-action: manipulation;
+  border: 3px;
+  border-color: red;
+}
+
+.button-no {
+	background: #e62143;
+	border-radius: 11px;
+	box-sizing: border-box;
+	color: #fff;
+	cursor: pointer;
+	font-family: Mija,-apple-system,BlinkMacSystemFont,Roboto,"Roboto Slab","Droid Serif","Segoe UI",system-ui,Arial,sans-serif;
+	font-size: 1.15em;
+	font-weight: 700;
+	justify-content: center;
+	line-height: 33.4929px;
+	padding: .6em 1em;
+	text-align: center;
+	text-decoration: none;
+	text-shadow: rgba(0, 0, 0, .3) 1px 1px 1px;
+	text-underline-offset: 1px;
+	transition: all .2s ease-in-out;
+	user-select: none;
+	touch-action: manipulation;
+	border: 0;
+  }
